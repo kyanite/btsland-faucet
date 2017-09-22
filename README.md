@@ -2,7 +2,7 @@
 
 ## Build toolkit and cli_wallet
 
-Start with BitShares 2.0 toolkit installation https://github.com/bitshares/bitshares-2. Follow instructions from README file.
+Start with BitShares 2.0 toolkit installation https://github.com/bitshares/bitshares-core. Follow instructions from README file.
 
 I recommend to launch 4 witness nodes for redundancy, find shell script example that launches the nodes in config/deploy/wns.sh.
 
