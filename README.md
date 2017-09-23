@@ -21,7 +21,7 @@ After you start cli_wallet, create password and import faucet account key, the f
 
 ## Build web wallet
 
-Find source code and building instructions here https://github.com/bitshares/bitshares-2-ui.
+Find source code and building instructions here https://github.com/bitshares/bitshares-ui.
 Before compiling it, edit SettingsStore.jsx, and put your values for connection and faucet_address.
 If you able to build it successfully, web/dist should contain several html, js and css files.
 
